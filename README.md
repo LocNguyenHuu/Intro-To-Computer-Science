@@ -31,10 +31,11 @@ CIWW room 317
 
 How to design algorithms to solve problems and how to translate these algorithms into working computer programs. Experience is acquired through projects in a high-level programming language. Intended primarily for computer science majors but also suitable for students of other scientific disciplines. Programming assignments. 
 
-*Prerequisites*:
+### Prerequisites
 Introduction to Computer Programming (CSCI-UA 2) or departmental permission assessed by placement exam.
 
-*Textbook*:
+### Textbook
+
 Introduction to JAVA programming
 Brief version, 10th edition
 Y. Daniel Liang
