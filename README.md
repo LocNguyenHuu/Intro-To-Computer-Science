@@ -68,7 +68,6 @@ The course schedule is tentative and *will* be adjusted along the way.
  - Primitive data types
  - Program structure
  - Control flow
- - Looping
  - Simple input/output
  - More on command line
 
@@ -80,6 +79,7 @@ The course schedule is tentative and *will* be adjusted along the way.
  - Mathematical functions
  - Characters
  - Strings
+ - Looping
 
 **What's due**:
  - Reading chapters 4
