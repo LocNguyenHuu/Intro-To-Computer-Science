@@ -23,6 +23,15 @@ CIWW room 317
 
 How to design algorithms to solve problems and how to translate these algorithms into working computer programs. Experience is acquired through projects in a high-level programming language. Intended primarily for computer science majors but also suitable for students of other scientific disciplines. Programming assignments.
 
+## Grading
+
+ * Assignments and quizzes: 10%
+ * Project: 10%
+ * In class participation: 5%
+ * Midterms: 20% each
+ * Final: 35%
+
+
 ### Prerequisites
 Introduction to Computer Programming (CSCI-UA 2) or departmental permission assessed by placement exam.
 
