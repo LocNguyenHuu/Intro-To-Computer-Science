@@ -25,7 +25,7 @@ How to design algorithms to solve problems and how to translate these algorithms
 
 ## Grading
 
- * Assignments and quizzes: 10%
+ * Assignments: 10%
  * Project: 10%
  * In class participation: 5%
  * Midterms: 20% each
@@ -45,7 +45,7 @@ ISBN: 0-13-359220-0
 ### Material
 
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html](Java SDK)
-
+[https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf](Getting started)
 
 
 
@@ -73,8 +73,7 @@ The course schedule is tentative and *will* be adjusted along the way.
  - More on command line
 
 **What's due**:
- - Reading chapters 2-5
- - Quiz 1
+ - Reading chapters 2-3
 
 #### Lecture 3 - 01/30/2018
 **Topics**:
@@ -83,7 +82,8 @@ The course schedule is tentative and *will* be adjusted along the way.
  - Strings
 
 **What's due**:
- - Reading chapters 2-5
+ - Reading chapters 4
+ - Assignement 1
 
 #### Lecture 4 - 02/01/2018
 **Topics**:
@@ -91,7 +91,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapters 2-5
- - Quiz 2
+
 
 #### Lecture 5 - 02/06/2018
 **Topics**:
@@ -119,19 +119,19 @@ The course schedule is tentative and *will* be adjusted along the way.
 **Topics**:
  - Single dimensional arrays
  - Two dimensional arrays
- 
+
 **What's due**:
   - Reading chapters 7-8
-  - Quiz 4
+  - Assignement 2
 
 #### Lecture 9 - 02/20/2018
 **Topics**:
- - Two and multi dimensional arrays
+ - Single and multi dimensional arrays
  - Hands on activities
 
 **What's due**:
  - Reading chapters 7-8
- - Quiz 5
+ - Assignement 3
 
 #### Lecture 10 - 02/22/2018
 **Topics**:
@@ -171,9 +171,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 9
- - Quiz 6
 
-#### No Classes - Spring Recess - 03/13/2018 - 03/15/2018 
+#### No Classes - Spring Recess - 03/13/2018 - 03/15/2018
 
 #### Lecture 15 - 03/20/2018
 **Topics**:
@@ -182,6 +181,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 9
+ - Assignement 4
 
 
 #### Lecture 16 - 03/22/2018
@@ -190,7 +190,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 10
- - Quiz 7
 
 #### Lecture 17 - 03/27/2018
 **Topics**:
@@ -198,6 +197,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 10
+ - Assignement 5
 
 #### Lecture 18 - 03/29/2018
 **Topics**:
@@ -234,12 +234,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 11
- - Quiz 8
 
 #### Lecture 23 - 04/17/2018
 **Topics**:
 - Inheritance and polymorphism
- - Hands on activities
+- Hands on activities
 
 **What's due**:
  - Reading chapter 11.
@@ -250,7 +249,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 12
- - Quiz 9
 
 #### Lecture 25 - 04/24/2018
 **Topics**:
@@ -266,7 +264,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 13
- - Quiz 10
+ - Project
 
 #### Lecture 27 - 05/01/2018
 **Topics**:
@@ -276,7 +274,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapters 13, 18
- - Quiz 11 (optional)
+ - Assignement 6 (optional)
 
 #### Lecture 28 - 05/03/2018
 **Topics**:
@@ -287,7 +285,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 Final Exam
 
-<!-- 
+<!--
  - Inheritance and polymorphism
  - Graphics and animations (using Processing)
  - Exception handling and text I/O
