@@ -44,8 +44,9 @@ ISBN: 0-13-359220-0
 
 ### Material
 
-[http://www.oracle.com/technetwork/java/javase/downloads/index.html](Java SDK)
-[https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf](Getting started)
+[Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+[Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf)
 
 
 
