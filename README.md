@@ -11,16 +11,8 @@ Phone: 1 (212) 998-3280
 
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)
 
-<!-- Office Hours: Mondays, 5pm-6pm and by appointment, 60 5th Ave, 5th Floor, Room 504 -->
+Office Hours: Thursdays, 3:30pm-4:30pm 60 5th Ave, 5th Floor, Room 524
 
-<!-- ### Assistant  -->
-<!-- *Zhongshi Jiang* -->
-
-<!-- [jiangzs@nyu.edu](mailto:jiangzs@nyu.edu) -->
-
-<!-- [http://cs.nyu.edu/~zhongshi/](http://cs.nyu.edu/~zhongshi/) -->
-
-<!-- Office Hours: Tuesdays and Thursday, 2pm-3pm, 60 5th Ave, 5th Floor, Room 540. -->
 
 ### Lectures:
 Tuesdays and Thursdays at 2:00pm - 3:15pm
@@ -40,6 +32,13 @@ Introduction to JAVA programming
 Brief version, 10th edition
 Y. Daniel Liang
 ISBN: 0-13-359220-0
+
+### Material
+
+[http://www.oracle.com/technetwork/java/javase/downloads/index.html](Java SDK)
+
+
+
 
 ## Schedule and Course Notes:
 
