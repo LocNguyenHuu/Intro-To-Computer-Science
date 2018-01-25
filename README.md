@@ -66,7 +66,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 #### Lecture 2 - 01/25/2018
 **Topics**:
- - Primitive data types
+
+[Lecture 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
+
+- Primitive data types
  - Program structure
  - Control flow
  - Simple input/output
