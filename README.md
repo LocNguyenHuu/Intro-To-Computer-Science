@@ -80,6 +80,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 #### Lecture 3 - 01/30/2018
 **Topics**:
+[Slides lecture 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
  - Mathematical functions
  - Characters
  - Strings
