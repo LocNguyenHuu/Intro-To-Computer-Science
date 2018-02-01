@@ -111,7 +111,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 6
- - Assignement 2
+ 
 
 #### Lecture 7 - 02/13/2018
 **Topics**:
@@ -120,6 +120,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapters 6-7
+ - Assignement 2
 
 #### Lecture 8 - 02/15/2018
 **Topics**:
