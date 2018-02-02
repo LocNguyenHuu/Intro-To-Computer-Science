@@ -92,6 +92,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 #### Lecture 4 - 02/01/2018
 **Topics**:
+[Hands on slides 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson1.pdf)
+[Triangle solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Triangle.java)
+[Monte Carlo solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/MonteCarlo.java)
+
  - Hands on activities
 
 **What's due**:
