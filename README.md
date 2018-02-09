@@ -23,7 +23,7 @@ CIWW room 317
 
 How to design algorithms to solve problems and how to translate these algorithms into working computer programs. Experience is acquired through projects in a high-level programming language. Intended primarily for computer science majors but also suitable for students of other scientific disciplines. Programming assignments.
 
-## Grading
+### Grading
 
  * Assignments: 10%
  * Project: 10%
