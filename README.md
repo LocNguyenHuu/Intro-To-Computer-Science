@@ -65,9 +65,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 #### Lecture 2 - 01/25/2018
-**Topics**:
 
+**Material**:
 [Slides lecture 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
+
+**Topics**:
 
 - Primitive data types
  - Program structure
@@ -79,8 +81,11 @@ The course schedule is tentative and *will* be adjusted along the way.
  - Reading chapters 2-3
 
 #### Lecture 3 - 01/30/2018
-**Topics**:
+**Material**:
 [Slides lecture 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
+
+**Topics**:
+
  - Mathematical functions
  - Characters
  - Strings
@@ -91,13 +96,13 @@ The course schedule is tentative and *will* be adjusted along the way.
  - Assignement 1
 
 #### Lecture 4 - 02/01/2018
+
+**Material**:
+[Hands on slides 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson1.pdf) 
+[Triangle solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Triangle.java) 
+[Monte Carlo solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/MonteCarlo.java) 
+
 **Topics**:
-
-[Hands on slides 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson1.pdf)
-
-[Triangle solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Triangle.java)
-
-[Monte Carlo solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/MonteCarlo.java)
 
  - Hands on activities
 
@@ -106,28 +111,35 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 #### Lecture 5 - 02/06/2018
+**Material**:
+[Slides lecture 5-6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
+
 **Topics**:
+
  - Methods
 
 **What's due**:
  - Reading chapter 6
 
 #### Lecture 6 - 02/08/2018
+**Material**:
+[Slides lecture 5-6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
+
 **Topics**:
+
  - Methods
 
 **What's due**:
  - Reading chapter 6
- 
+
 
 #### Lecture 7 - 02/13/2018
 **Topics**:
- - Methods
  - Single dimensional arrays
 
 **What's due**:
  - Reading chapters 6-7
- - Assignement 2
+
 
 #### Lecture 8 - 02/15/2018
 **Topics**:
@@ -136,10 +148,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
   - Reading chapters 7-8
+  - Assignement 2
 
 #### Lecture 9 - 02/20/2018
 **Topics**:
- - Single and multi dimensional arrays
  - Hands on activities
 
 **What's due**:
