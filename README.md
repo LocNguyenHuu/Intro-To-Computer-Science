@@ -142,6 +142,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 #### Lecture 8 - 02/15/2018
+**Material**:
+[Slides lecture 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
+
 **Topics**:
  - Single dimensional arrays
  - Two dimensional arrays
@@ -152,11 +155,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 #### Lecture 9 - 02/20/2018
 **Topics**:
+ - Two dimensional arrays
  - Hands on activities
 
 **What's due**:
  - Reading chapters 7-8
- - Assignement 3
 
 #### Lecture 10 - 02/22/2018
 **Topics**:
