@@ -144,6 +144,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 #### Lecture 8 - 02/15/2018
 **Material**:
 [Slides lecture 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
+[Slides lecture 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
 
 **Topics**:
  - Single dimensional arrays
@@ -154,6 +155,10 @@ The course schedule is tentative and *will* be adjusted along the way.
   - Assignement 2
 
 #### Lecture 9 - 02/20/2018
+**Material**:
+[Hands on slides 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson2.pdf) 
+[Game of Life simulation](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/GameLife.java) 
+
 **Topics**:
  - Two dimensional arrays
  - Hands on activities
@@ -173,7 +178,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 #### Lecture 12 - 03/01/2018
 **Topics**:
- - Two and multi dimensional arrays
+ - Eclipse
+ - Hands on activities
 
 **What's due**:
  - Reading chapter 8
@@ -182,14 +188,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 **Topics**:
  - Hands on activities
  - Midterm discussion
-
- <!-- - Introduction to computer science and Java
- - Primitive data types and elementary programming, simple input/output
- - Conditional execution and selection statements
- - Mathematical functions, characters and strings
- - Iterations
- - Methods
- - Arrays (1D and 2D), operations on arrays -->
 
 ### Part 2: Object oriented programming and design
 
