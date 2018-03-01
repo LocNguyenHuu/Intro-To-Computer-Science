@@ -177,19 +177,25 @@ The course schedule is tentative and *will* be adjusted along the way.
 #### Lecture 11 -  02/27/2018 - Midterm exam 1
 
 #### Lecture 12 - 03/01/2018
+**Material**:
+[Eclipse](https://www.eclipse.org/) 
+
 **Topics**:
  - Eclipse
  - Hands on activities
 
-**What's due**:
- - Reading chapter 8
+<!-- **What's due**: -->
+ <!-- - Reading chapter 8 -->
+
+
+### Part 2: Object oriented programming and design
 
 #### Lecture 13 - 03/06/2018
 **Topics**:
+ - Objects and classes
  - Hands on activities
  - Midterm discussion
 
-### Part 2: Object oriented programming and design
 
 #### Lecture 14 - 03/08/2018
 **Topics**:
