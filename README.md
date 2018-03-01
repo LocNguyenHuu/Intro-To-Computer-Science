@@ -192,9 +192,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 #### Lecture 13 - 03/06/2018
 **Topics**:
- - Objects and classes
- - Hands on activities
  - Midterm discussion
+ - Objects and classes
 
 
 #### Lecture 14 - 03/08/2018
@@ -213,7 +212,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 9
- - Assignement 4
+ - Assignement 3
 
 
 #### Lecture 16 - 03/22/2018
@@ -229,7 +228,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 10
- - Assignement 5
+ - Assignement 4
 
 #### Lecture 18 - 03/29/2018
 **Topics**:
@@ -306,7 +305,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapters 13, 18
- - Assignement 6 (optional)
+ - Assignement 5 (optional)
 
 #### Lecture 28 - 05/03/2018
 **Topics**:
