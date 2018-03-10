@@ -197,6 +197,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 #### Lecture 14 - 03/08/2018
+**Material**:
+[Slides lecture 14](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
+
 **Topics**:
  - Objects and classes
 
