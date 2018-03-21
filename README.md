@@ -209,13 +209,14 @@ The course schedule is tentative and *will* be adjusted along the way.
 #### No Classes - Spring Recess - 03/13/2018 - 03/15/2018
 
 #### Lecture 15 - 03/20/2018
+**Material**:
+[Game of Life refactoring](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLife.zip)
+
 **Topics**:
- - Objects and classes
  - Hands on activities
 
 **What's due**:
  - Reading chapter 9
- - Assignement 3
 
 
 #### Lecture 16 - 03/22/2018
@@ -223,6 +224,7 @@ The course schedule is tentative and *will* be adjusted along the way.
  - Object oriented thinking
 
 **What's due**:
+ - Assignement 3
  - Reading chapter 10
 
 #### Lecture 17 - 03/27/2018
