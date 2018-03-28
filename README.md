@@ -1,46 +1,45 @@
 # Intro to computer science, CSCI-UA.0101-002 Spring 2018
 
+## Course Information
 ### Course Instructor
-*Schneider Teseo*
+**Schneider Teseo**<br>
+Address: 60 5th Ave, 5th Floor, Office 524<br>
+Phone: 1 (212) 998-3280<br>
+E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
+URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
-60 5th Ave, 5th Floor
-
-Phone: 1 (212) 998-3280
-
-[teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)
-
-URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)
-
-Office Hours: Thursdays, 3:30pm-4:30pm 60 5th Ave, 5th Floor, Room 524
-
+**Office Hours**: Thursdays, 3:30pm-4:30pm 60 5th Ave, 5th Floor, Office 524
 
 ### Lectures:
-Tuesdays and Thursdays at 2:00pm - 3:15pm
+Tuesdays and Thursdays at 2:00pm - 3:15pm<br>
 Washington Square
 CIWW room 317
+
+### Textbook
+
+> **Introduction to JAVA programming**<br>
+> Brief version, 10th edition<br>
+> Y. Daniel Liang<br>
+> ISBN: 0-13-359220-0
+
+
+### Grading
+ - Assignments: 10%
+ - Project: 10%
+ - In class participation: 5%
+ - Midterms: 20% each
+ - Final: 35%
 
 ## Course Description
 
 How to design algorithms to solve problems and how to translate these algorithms into working computer programs. Experience is acquired through projects in a high-level programming language. Intended primarily for computer science majors but also suitable for students of other scientific disciplines. Programming assignments.
 
-### Grading
-
- * Assignments: 10%
- * Project: 10%
- * In class participation: 5%
- * Midterms: 20% each
- * Final: 35%
 
 
 ### Prerequisites
 Introduction to Computer Programming (CSCI-UA 2) or departmental permission assessed by placement exam.
 
-### Textbook
 
-Introduction to JAVA programming
-Brief version, 10th edition
-Y. Daniel Liang
-ISBN: 0-13-359220-0
 
 ### Material
 
