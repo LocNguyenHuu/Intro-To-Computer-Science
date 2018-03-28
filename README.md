@@ -54,7 +54,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Slides 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
 - [Slides 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
 - [Slides 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
-
+- [Slides 14](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
+- [Slides 15](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
 
 
 ## Schedule and Course Notes:
@@ -75,80 +76,37 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 11 | 02/27/2018 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
+| Lecture | Date | Topic | Chapter | Slides |
+|----|----|----|----|----|
+| 13 | 03/06/2018 | Midterm discussion, objects and classes | 9 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf) |
+| 14 | 03/08/2018 | Objects and classes | 9 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf) |
+| 16 | 03/22/2018 | Object oriented thinking | 10 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf) |
+| 17 | 03/27/2018 | Object oriented thinking | 10 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf) |
+| 18 | 03/29/2018 | Midterm 2 review | 1-10 | |
+| 19 | 04/03/2018 | Midterm 2 | | |
+
+### Part 3: Advanced concepts
 
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
 | 01 | 02/01/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson1.pdf), [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Triangle.java), [Monte Carlo](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/MonteCarlo.java) |
-| 02 | 02/20/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson2.pdf) [Game of Life simulation](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/GameLife.java) |
+| 02 | 02/20/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson2.pdf), [Game of Life simulation](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/GameLife.java) |
 | 03 | 03/01/2018 | [Eclipse](https://www.eclipse.org/) |
+| 04 | 03/20/2018 | [Game of Life refactoring](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLife.zip) |
+
 ## Assignments
+
+| Number | Date | Due date| link |
+|----|----|----|----|
 
 **What's due**:
  - Assignement 1
  - Assignement 2
-
-
-
-
-
-#### Lecture 13 - 03/06/2018
-**Topics**:
- - Midterm discussion
- - Objects and classes
-
-
-#### Lecture 14 - 03/08/2018
-**Material**:
-[Slides lecture 14](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
-
-**Topics**:
- - Objects and classes
-
-**What's due**:
- - Reading chapter 9
-
-#### No Classes - Spring Recess - 03/13/2018 - 03/15/2018
-
-#### Lecture 15 - 03/20/2018
-**Material**:
-[Game of Life refactoring](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLife.zip)
-
-**Topics**:
- - Hands on activities
-
-**What's due**:
- - Reading chapter 9
-
-
-#### Lecture 16 - 03/22/2018
-
-**Material**:
-[Slides lecture 15](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
-
-**Topics**:
- - Object oriented thinking
-
-**What's due**:
- - Reading chapter 10
-
-#### Lecture 17 - 03/27/2018
-**Topics**:
- - Object oriented thinking
-
-**What's due**:
- - Reading chapter 10
+  - Assignement 3
  - Assignement 4
 
-#### Lecture 18 - 03/29/2018
-**Topics**:
- - Midterm 2 review
 
-**What's due**:
- - Reading chapter 1-10
- - Assignement 3
-
-#### Lecture 19 - 04/03/2018 - Midterm exam 2
 
 #### Lecture 20 - 04/05/2018
 **Topics**:
@@ -166,7 +124,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 <!--  - Objects and classes
  - Object oriented thinking and design -->
 
-### Part 3: Advanced concepts
+
 
 
 #### Lecture 22 - 04/12/2018
