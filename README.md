@@ -41,11 +41,19 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 
 
 
-### Material
+## Material
 
-[Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+### Misc
 
-[Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf)
+- [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf)
+
+### Slides
+- [Slides 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
+- [Slides 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
+- [Slides 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
+- [Slides 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
+- [Slides 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
 
 
 
@@ -54,140 +62,35 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 The course schedule is tentative and *will* be adjusted along the way.
 
 ### Part 1: Fundamentals of Programming
-#### Lecture 1 - 01/23/2018
-**Topics**:
- - Welcome to the class!
- - Introduction
- - Syllabus
- - Introduction to computers, programs and Java
- - Command line basics
-
-
-#### Lecture 2 - 01/25/2018
-
-**Material**:
-[Slides lecture 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
-
-**Topics**:
-
-- Primitive data types
- - Program structure
- - Control flow
- - Simple input/output
- - More on command line
-
-**What's due**:
- - Reading chapters 2-3
-
-#### Lecture 3 - 01/30/2018
-**Material**:
-[Slides lecture 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
-
-**Topics**:
-
- - Mathematical functions
- - Characters
- - Strings
- - Looping
-
-**What's due**:
- - Reading chapters 4
- - Assignement 1
-
-#### Lecture 4 - 02/01/2018
-
-**Material**:
-[Hands on slides 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson1.pdf) 
-[Triangle solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Triangle.java) 
-[Monte Carlo solution](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/MonteCarlo.java) 
-
-**Topics**:
-
- - Hands on activities
-
-**What's due**:
- - Reading chapters 2-5
-
-
-#### Lecture 5 - 02/06/2018
-**Material**:
-[Slides lecture 5-6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
-
-**Topics**:
-
- - Methods
-
-**What's due**:
- - Reading chapter 6
-
-#### Lecture 6 - 02/08/2018
-**Material**:
-[Slides lecture 5-6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
-
-**Topics**:
-
- - Methods
-
-**What's due**:
- - Reading chapter 6
-
-
-#### Lecture 7 - 02/13/2018
-**Topics**:
- - Single dimensional arrays
-
-**What's due**:
- - Reading chapters 6-7
-
-
-#### Lecture 8 - 02/15/2018
-**Material**:
-[Slides lecture 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
-[Slides lecture 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
-
-**Topics**:
- - Single dimensional arrays
- - Two dimensional arrays
-
-**What's due**:
-  - Reading chapters 7-8
-  - Assignement 2
-
-#### Lecture 9 - 02/20/2018
-**Material**:
-[Hands on slides 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson2.pdf) 
-[Game of Life simulation](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/GameLife.java) 
-
-**Topics**:
- - Two dimensional arrays
- - Hands on activities
-
-**What's due**:
- - Reading chapters 7-8
-
-#### Lecture 10 - 02/22/2018
-**Topics**:
- - Midterm 1 review
-
-**What's due**:
- - Reading chapters 1-8
-
-
-#### Lecture 11 -  02/27/2018 - Midterm exam 1
-
-#### Lecture 12 - 03/01/2018
-**Material**:
-[Eclipse](https://www.eclipse.org/) 
-
-**Topics**:
- - Eclipse
- - Hands on activities
-
-<!-- **What's due**: -->
- <!-- - Reading chapter 8 -->
-
+| Lecture | Date | Topic | Chapter | Slides |
+|----|----|----|----|----|
+| 01 | 01/23/2018 | Introduction to computers, programs and Java, command line basics | 1 | |
+| 02 | 01/25/2018 | Primitive data types, program structure, control flow, input/output| 2-3 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf) |
+| 03 | 01/30/2018 | Mathematical functions, characters, strings, looping| 4-5 |[Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf) |
+| 05 | 02/06/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf) |
+| 06 | 02/08/2018 | Methods | 6 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf) |
+| 07 | 02/13/2018 | Single dimensional arrays | 7 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf) |
+| 08 | 02/15/2018 | Two dimensional arrays | 8 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf) |
+| 10 | 02/22/2018 | Midterm 1 review | 1-8 | |
+| 11 | 02/27/2018 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
+
+## Hands on activities
+| Number | Date | Material |
+|----|----|----|
+| 01 | 02/01/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson1.pdf), [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/Triangle.java), [Monte Carlo](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/MonteCarlo.java) |
+| 02 | 02/20/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson2.pdf) [Game of Life simulation](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/GameLife.java) |
+| 03 | 03/01/2018 | [Eclipse](https://www.eclipse.org/) |
+## Assignments
+
+**What's due**:
+ - Assignement 1
+ - Assignement 2
+
+
+
+
 
 #### Lecture 13 - 03/06/2018
 **Topics**:
