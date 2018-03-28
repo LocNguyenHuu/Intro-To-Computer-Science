@@ -49,13 +49,13 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf)
 
 ### Slides
-- [Slides 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
-- [Slides 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
-- [Slides 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
-- [Slides 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
-- [Slides 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
-- [Slides 14](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
-- [Slides 15](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
+- [Slides introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
+- [Slides Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
+- [Slides Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
+- [Slides Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
+- [Slides Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
+- [Slides Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
+- [Slides Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
 
 
 ## Schedule and Course Notes:
