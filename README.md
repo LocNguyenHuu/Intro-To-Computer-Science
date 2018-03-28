@@ -112,12 +112,14 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Number | Date | Due date| link |
 |----|----|----|----|
+| 01 | 01/25/2018 | 02/06/2018 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf) |
+| 02 | 02/08/2018 | 02/20/2018 | |
+| 03 | 03/09/2018 | 03/22/2018 | |
+| 04 | 03/22/2018 | 03/29/2018 | |
+| 05 | 03/29/2018 | 04/03/2018 | |
+| 06 | 04/03/2018 | 04/10/2018 | |
+| project | 04/10/2018 | 04/26/2018 | |
+| 07 | 04/26/2018 | 05/03/2018 | |
 
-**What's due**:
- - Assignement 1
- - Assignement 2
-  - Assignement 3
- - Assignement 4
 
- - Project
 
