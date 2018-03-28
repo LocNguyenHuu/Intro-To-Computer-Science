@@ -220,11 +220,14 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 #### Lecture 16 - 03/22/2018
+
+**Material**:
+[Slides lecture 15](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
+
 **Topics**:
  - Object oriented thinking
 
 **What's due**:
- - Assignement 3
  - Reading chapter 10
 
 #### Lecture 17 - 03/27/2018
@@ -241,6 +244,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 **What's due**:
  - Reading chapter 1-10
+ - Assignement 3
 
 #### Lecture 19 - 04/03/2018 - Midterm exam 2
 
