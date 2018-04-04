@@ -47,6 +47,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 
 - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started.pdf)
+- [Getting started Porcessing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/getting_started_processing.pdf)
+- [Porcessing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/core.jar)
 
 ### Slides
 - [Slides introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
@@ -117,7 +119,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 03/09/2018 | 03/22/2018 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment3.pdf) |
 | 04 | 03/22/2018 | 03/29/2018 | [Assignment 4](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment4.pdf) |
 | 05 | 03/29/2018 | 04/03/2018 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment5.pdf) |
-| 06 | 04/03/2018 | 04/10/2018 | |
+| 06 | 04/03/2018 | 04/10/2018 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment6.pdf) |
 | project | 04/10/2018 | 04/26/2018 | |
 | 07 | 04/26/2018 | 05/03/2018 | |
 
