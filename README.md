@@ -51,13 +51,13 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Porcessing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/processing.zip)
 
 ### Slides
-- [Slides introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
-- [Slides Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
-- [Slides Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
-- [Slides Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
-- [Slides Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
-- [Slides Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
-- [Slides Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
+- [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture2.pdf)
+- [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture3.pdf)
+- [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture5.pdf)
+- [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture7.pdf)
+- [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
+- [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
+- [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
 
 
 ## Schedule and Course Notes:
@@ -91,7 +91,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-<!-- | 20 | 04/05/2018 | Processing and midterm discussion |  | | -->
 | 22 | 04/10/2018 | Inheritance and polymorphism | 11 | |
 | 22 | 04/12/2018 | Inheritance and polymorphism and midterm discussion | 11 | |
 | 23 | 04/17/2018 | Exception handling and file I/O | 11 | |
