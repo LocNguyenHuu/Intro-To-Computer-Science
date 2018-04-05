@@ -91,13 +91,14 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 20 | 04/05/2018 | Processing and midterm discussion |  | |
-| 22 | 04/12/2018 | Inheritance and polymorphism | 11 | |
-| 23 | 04/17/2018 | Inheritance and polymorphism | 11 | |
-| 25 | 04/24/2018 | Exception handling and file I/O | 12 | |
+<!-- | 20 | 04/05/2018 | Processing and midterm discussion |  | | -->
+| 22 | 04/10/2018 | Inheritance and polymorphism | 11 | |
+| 22 | 04/12/2018 | Inheritance and polymorphism and midterm discussion | 11 | |
+| 23 | 04/17/2018 | Exception handling and file I/O | 11 | |
+| 25 | 04/24/2018 | Abstract classes and interfaces | 12 | |
 | 26 | 04/26/2018 | Abstract classes and interfaces | 13 | |
-| 27 | 05/01/2018 | Abstract classes and interfaces (recursion?) | 13 (18?) | |
-| 28 | 05/03/2018 | Review for the final exam | 1-13, (18?) | |
+| 27 | 05/01/2018 | Recursion | 18 | |
+| 28 | 05/03/2018 | Review for the final exam | 1-13, 18 | |
 
 ## Hands on activities
 | Number | Date | Material |
@@ -106,7 +107,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 02/20/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson2.pdf), [Game of Life simulation](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/GameLife.java) |
 | 03 | 03/01/2018 | [Eclipse](https://www.eclipse.org/) |
 | 04 | 03/20/2018 | [Game of Life refactoring](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLife.zip) |
-| 05 | 04/10/2018 | Processing |
+| 05 | 04/05/2018 | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLifeProcessing.zip) |
 | 06 | 04/19/2018 | Inheritance and polymorphism |
 
 
