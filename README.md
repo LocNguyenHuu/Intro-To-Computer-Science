@@ -120,8 +120,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 04 | 03/22/2018 | 03/29/2018 | [Assignment 4](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment4.pdf) |
 | 05 | 03/29/2018 | 04/03/2018 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment5.pdf) |
 | 06 | 04/03/2018 | 04/10/2018 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment6.pdf) |
-| project | 04/10/2018 | 04/26/2018 | |
-| 07 | 04/26/2018 | 05/03/2018 | |
+| project | 04/10/2018 | 04/24/2018 | [Project](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Project.pdf) |
+| 07 | 04/24/2018 | 05/01/2018 | |
+| 08 (bonus) | 04/01/2018 | 05/08/2018 | |
 
 
 
