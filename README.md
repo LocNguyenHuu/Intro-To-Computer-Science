@@ -15,6 +15,11 @@ Tuesdays and Thursdays at 2:00pm - 3:15pm<br>
 Washington Square
 CIWW room 317
 
+### Final exam
+
+> May 15th (05/15/2018) at 2:00-3:50PM, room 317
+
+
 ### Textbook
 
 > **Introduction to JAVA programming**<br>
@@ -58,6 +63,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture8.pdf)
 - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture14.pdf)
 - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
+- [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture16.pdf)
+- [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture17.pdf)
 
 
 ## Schedule and Course Notes:
@@ -91,13 +98,14 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 22 | 04/10/2018 | Inheritance and polymorphism | 11 | |
-| 22 | 04/12/2018 | Inheritance and polymorphism and midterm discussion | 11 | |
-| 23 | 04/17/2018 | Abstract classes and interfaces | 13 | |
-| 25 | 04/24/2018 | Abstract classes and interfaces | 13 | |
+| 22 | 04/10/2018 | Inheritance and polymorphism | 11 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture16.pdf) |
+| 22 | 04/12/2018 | Inheritance and polymorphism and midterm discussion | 11 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture16.pdf) |
+| 23 | 04/17/2018 | Abstract classes and interfaces | 13 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture17.pdf) |
+| 25 | 04/19/2018 | Abstract classes and interfaces | 13 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture17.pdf) |
 | 26 | 04/26/2018 | Exception handling and text I/O | 12 | |
 | 27 | 05/01/2018 | Recursion | 18 | |
 | 28 | 05/03/2018 | Review for the final exam | 1-13, 18 | |
+
 
 ## Hands on activities
 | Number | Date | Material |
@@ -107,7 +115,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 03/01/2018 | [Eclipse](https://www.eclipse.org/) |
 | 04 | 03/20/2018 | [Game of Life refactoring](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLife.zip) |
 | 05 | 04/05/2018 | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLifeProcessing.zip) |
-| 06 | 04/19/2018 | Inheritance and polymorphism |
+| 06 | 04/24/2018 | Inheritance and polymorphism |
 
 
 ## Assignments
