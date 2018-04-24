@@ -115,7 +115,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 03/01/2018 | [Eclipse](https://www.eclipse.org/) |
 | 04 | 03/20/2018 | [Game of Life refactoring](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLife.zip) |
 | 05 | 04/05/2018 | [Game of Life Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/material/gameOfLifeProcessing.zip) |
-| 06 | 04/24/2018 | Inheritance and polymorphism |
+| 06 | 04/24/2018 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/handson3.pdf) |
 
 
 ## Assignments
