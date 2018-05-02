@@ -65,6 +65,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture15.pdf)
 - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture16.pdf)
 - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture17.pdf)
+- [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture18.pdf)
 
 
 ## Schedule and Course Notes:
@@ -102,8 +103,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 22 | 04/12/2018 | Inheritance and polymorphism and midterm discussion | 11 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture16.pdf) |
 | 23 | 04/17/2018 | Abstract classes and interfaces | 13 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture17.pdf) |
 | 25 | 04/19/2018 | Abstract classes and interfaces | 13 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture17.pdf) |
-| 26 | 04/26/2018 | Exception handling and text I/O | 12 | |
-| 27 | 05/01/2018 | Recursion | 18 | |
+| 26 | 04/26/2018 | Exception handling and text I/O | 12 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture18.pdf) |
+| 27 | 05/01/2018 | Exception handling and text I/O | 12 | [Link](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/slides/lecture18.pdf)|
 | 28 | 05/03/2018 | Review for the final exam | 1-13, 18 | |
 
 
@@ -130,7 +131,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 06 | 04/03/2018 | 04/10/2018 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment6.pdf) |
 | project | 04/10/2018 | 04/24/2018 | [Project](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Project.pdf) |
 | 07 | 04/24/2018 | 05/01/2018 | [Assignment 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment7.pdf) |
-| 08 (bonus) | 04/01/2018 | 05/08/2018 | |
+| 08 (bonus) | 04/01/2018 | 05/08/2018 | [Assignment 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science/master/assignments/Assignment8.pdf) |
 
 
 
